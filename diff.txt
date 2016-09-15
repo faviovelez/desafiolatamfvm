@@ -1,0 +1,1 @@
+Git es un programa para controlar versiones, mientras que Github es una plataforma online (una red social) para desarrolladores que te permite controlar un proyecto con versiones y que otras personas trabajen en él.
